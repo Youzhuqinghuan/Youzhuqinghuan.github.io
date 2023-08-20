@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>测试用文章</title>
-    <url>/2023/08/20/test/</url>
-    <content><![CDATA[<p>An article to test tags and categories pages.</p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>Father</category>
-        <category>daughter</category>
-        <category>Mather</category>
-        <category>Grandson</category>
-        <category>Son</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Next</tag>
-        <tag>Test</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/08/20/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -41,6 +22,25 @@
   </entry>
   <entry>
     <title>测试用文章</title>
+    <url>/2023/08/20/test/</url>
+    <content><![CDATA[<p>An article to test tags and categories pages.</p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>Father</category>
+        <category>daughter</category>
+        <category>Mather</category>
+        <category>Grandson</category>
+        <category>Son</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Next</tag>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试用文章</title>
     <url>/2023/08/20/test2/</url>
     <content><![CDATA[<p>Another test article.</p>
 <span id="more"></span>
@@ -52,6 +52,27 @@
       </categories>
       <tags>
         <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有关全知全能的一点个人看法</title>
+    <url>/2023/08/20/%E6%9C%89%E5%85%B3%E5%85%A8%E7%9F%A5%E5%85%A8%E8%83%BD%E7%9A%84%E4%B8%80%E7%82%B9%E4%B8%AA%E4%BA%BA%E7%9C%8B%E6%B3%95/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">上帝能创造出一块自己举不起来的石头吗？</blockquote>
+
+<p>​	当你在思考怎么回答这个问题的时候，就已经落入了提问者的思维陷阱。</p>
+<p>​	世界观是一个人对整个世界的根本看法，是在社会实践的基础上产生和逐渐形成的。人在创造一个概念的同时，往往会随即衍生出这个概念的相反概念，<em>“是”</em>与<em>“非”</em>，<em>“对”</em>与<em>“错”</em>，这是由人的二元世界观所决定的。然而，假使世界上真实存在所谓全知全能的上帝，那么上帝所在的世界观一定不是二元的，因为上帝是全能的，所谓的<em>”有限“</em>是全然不存在的。（事实上在这种世界观看来，存在与不存在的对立本身就是不存在的 :D）</p>
+<p>​	然而随之又产生了一个问题，这一块石头，又符合上帝举不起来的定义，又由于上帝的全能使其能被举起，那么这块石头到底能不能被举起来呢——<em>“如举”</em>。这样的世界观由于超出了人类的认知范围从而会导致一连串的困惑。</p>
+<p>​	然而<em>（后面全是瞎编的）</em>，就像蜉蝣不能察觉晨昏的变化，夏虫不能感受四季的交替一般，人类又如何能认知一个拥有全职全能，三位一体的至高神的世界呢？人类直面旧神会产生臆想和谵妄，这又何尝不是由于自己的世界观受到了彻底的摧毁呢？</p>
+<blockquote class="blockquote-center">那永恒长眠的并非亡者，在奇妙的万古之中即便死亡亦会消逝</blockquote>
+
+<p>​	因此，<strong>不要用已知的概念去套牢未知的事物</strong>，如若上帝真的存在，想必也会和旧日一般不可名状，一说就错、一想就谬。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+        <tag>思辨</tag>
       </tags>
   </entry>
 </search>
